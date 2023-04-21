@@ -3,7 +3,7 @@ Usuario github: Santiago Invernizzi
 ◦ Apellido: Invernizzi
 ◦ Nombre: Santiago Alfredo
 • Numero y titulo del trabajo: TP0 00-CHelloWorld
-• transcripción del enunciado:
+• transcripción del enunciado: 
 • hipótesis de trabajo que surgen luego de leer el enunciado. Opcionalmente, para
 facilitar el desarrollo se recomienda incluir:
 
