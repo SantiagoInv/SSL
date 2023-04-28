@@ -3,6 +3,5 @@ Usuario github: Santiago Invernizzi
 ◦ Apellido: Invernizzi
 ◦ Nombre: Santiago Alfredo
 • Numero y titulo del trabajo: TP0 00-CHelloWorld
-• transcripción del enunciado: 
 
 
